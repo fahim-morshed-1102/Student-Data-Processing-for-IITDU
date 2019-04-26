@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1554162800 source:c:\users\mdmos\onedrive\desktop\project\myproject\main.c
+	<stdio.h>
+	"header.h"
+
+1554162916 c:\users\mdmos\onedrive\desktop\project\myproject\header.h
+
+1554160715 source:c:\users\mdmos\onedrive\desktop\project\myproject\result.c
+	<stdio.h>
+
+1554152785 source:c:\users\mdmos\onedrive\desktop\project\myproject\search.c
+	<stdio.h>
+
+1554152623 source:c:\users\mdmos\onedrive\desktop\project\myproject\studentdata.c
+	<stdio.h>
+
+1554162909 source:f:\myproject\filecreator.c
+
+1554160715 source:f:\myproject\result.c
+	<stdio.h>
+
+1554152785 source:f:\myproject\search.c
+	<stdio.h>
+
+1554152623 source:f:\myproject\studentdata.c
+	<stdio.h>
+
+1554163338 source:f:\myproject\main.c
+	"header.h"
+
+1554162916 f:\myproject\header.h
+
+1556300397 source:c:\users\mdmos\downloads\myproject\search.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1556300315 source:c:\users\mdmos\downloads\myproject\studentdata.c
+	<stdio.h>
+
+1556300280 source:c:\users\mdmos\downloads\myproject\filecreator.c
+	<stdio.h>
+	<string.h>
+
+1556267307 source:c:\users\mdmos\downloads\myproject\main.c
+	<stdio.h>
+	"header.h"
+
+1556216057 c:\users\mdmos\downloads\myproject\header.h
+
+1556225268 source:c:\users\mdmos\downloads\myproject\result.c
+	<stdio.h>
+	"header.h"
+
+1556162433 source:c:\users\fahim morshed opee\downloads\myproject\filecreator.c
+	<stdio.h>
+	<string.h>
+
+1556123170 source:c:\users\fahim morshed opee\downloads\myproject\main.c
+	"header.h"
+
+1556162479 c:\users\fahim morshed opee\downloads\myproject\header.h
+
+1556162262 source:c:\users\fahim morshed opee\downloads\myproject\result.c
+	<stdio.h>
+	"header.h"
+
+1556123224 source:c:\users\fahim morshed opee\downloads\myproject\search.c
+	<stdio.h>
+
+1556142694 source:c:\users\fahim morshed opee\downloads\myproject\studentdata.c
+	<stdio.h>
+
+1556123254 source:g:\projects\myproject\filecreator.c
+	<stdio.h>
+	<string.h>
+
+1556123170 source:g:\projects\myproject\main.c
+	"header.h"
+
+1556128852 g:\projects\myproject\header.h
+
+1556123224 source:g:\projects\myproject\search.c
+	<stdio.h>
+
+1556142260 source:g:\projects\myproject\studentdata.c
+	<stdio.h>
+
+1556142106 source:g:\projects\myproject\result.c
+	<stdio.h>
+	"header.h"
+
